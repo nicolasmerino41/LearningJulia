@@ -1,6 +1,10 @@
 using Pkg
+# Desktop
 Pkg.activate("C:\\Users\\MM-1\\OneDrive\\PhD\\GitHub\\LearningJulia")
 cd("C:\\Users\\MM-1\\OneDrive\\PhD\\GitHub\\LearningJulia")
+# Laptop
+Pkg.activate("C:\\Users\\nicol\\OneDrive\\PhD\\GitHub\\LearningJulia")
+cd("C:\\Users\\nicol\\OneDrive\\PhD\\GitHub\\LearningJulia")
 
 # There are 100 doors in a row that are all initially closed.
 # You make 100 passes by the doors.
